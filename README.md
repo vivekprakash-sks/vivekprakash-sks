@@ -1,4 +1,4 @@
-## Hi there, i am randi 👋
+## Hi there, i am vivek 👋
 # Hi, I'm Vivek Prakash
 
 ### B.Tech CSE (Data Science) | C++ | DSA | Python | Web Development
